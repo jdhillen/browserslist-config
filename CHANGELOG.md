@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/jdhillen/browserslist-config/compare/v1.1.1...v1.1.2) (2024-12-09)
+
+
+### Bug Fixes
+
+* fixing ([f45acca](https://github.com/jdhillen/browserslist-config/commit/f45acca8b693bdcce73ea5f86095401073f4aa26))
+
 ## [1.1.1](https://github.com/jdhillen/browserslist-config/compare/v1.1.0...v1.1.1) (2024-12-09)
 
 
