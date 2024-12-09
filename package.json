@@ -2,29 +2,42 @@
   "name": "@jdhillen/browserslist-config",
   "version": "1.1.0",
   "description": "Browserslist shared config with multiple browser support targets",
+  "license": "MIT",
   "type": "module",
   "main": "index.js",
+
+  "author": {
+    "name": "J.D. Hillen",
+    "email": "jhillen01@gmail.com",
+    "url": "https://links.jdhillen.com"
+  },
+
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jdhillen/browserslist-config.git"
   },
-  "scripts": {
-    "test": "echo \"No tests specified\""
-  },
-  "engines": {
-    "node": ">=20.0.0"
-  },
+
   "keywords": [
     "browserslist",
     "browserslist-config"
   ],
-  "license": "MIT",
+
+  "engines": {
+    "node": ">=20.0.0"
+  },
+
+  "scripts": {
+    "test": "echo \"No tests specified\""
+  },
+
   "publishConfig": {
     "access": "public"
   },
+
   "peerDependencies": {
     "browserslist": "^4.22.2"
   },
+
   "devDependencies": {
     "@semantic-release/changelog": "^6.0.3",
     "@semantic-release/git": "^10.0.1",
