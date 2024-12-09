@@ -10,7 +10,7 @@ ESM Browserslist configuration with multiple presets.
 ## Install
 
 ```bash
-npm install -D @jdhillen/browserslist-config browserslist
+npm install -D @jdhillen/browserslist-config
 ```
 
 ## Usage
