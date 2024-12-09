@@ -1,3 +1,12 @@
+## [1.1.1](https://github.com/jdhillen/browserslist-config/compare/v1.1.0...v1.1.1) (2024-12-09)
+
+
+### Bug Fixes
+
+* removed ([72605cc](https://github.com/jdhillen/browserslist-config/commit/72605cc6c91ca0c388a45ff97f8c850f7dab2a77))
+* Revised ([85f3106](https://github.com/jdhillen/browserslist-config/commit/85f3106af960e4470cf355eec4350be6d116a2c4))
+* updated ([a4aa35e](https://github.com/jdhillen/browserslist-config/commit/a4aa35e54032168096647b483897badb8270afc9))
+
 # [1.1.0](https://github.com/jdhillen/browserslist-config/compare/v1.0.0...v1.1.0) (2024-12-07)
 
 
